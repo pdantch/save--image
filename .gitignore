@@ -1,0 +1,6 @@
+
+/src/node_modules
+/src/migrations
+/src/uploads
+*.db
+*.json
